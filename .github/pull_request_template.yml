@@ -1,0 +1,36 @@
+## Summary
+
+<!-- Brief description of what this PR does -->
+
+## Changes
+
+<!-- List of changes -->
+- 
+
+## Type of Change
+
+- [ ] Bug fix
+- [ ] New feature
+- [ ] Enhancement
+- [ ] Breaking change
+- [ ] Documentation
+
+## Testing
+
+- [ ] Unit tests pass (`npm test`)
+- [ ] Lint passes (`npm run lint`)
+- [ ] Type check passes (`npm run type-check`)
+- [ ] Build succeeds (`npm run build`)
+- [ ] Manually tested
+
+## Screenshots
+
+<!-- If applicable, add screenshots -->
+
+## Checklist
+
+- [ ] My code follows the project's code style
+- [ ] I have performed a self-review
+- [ ] I have added tests for new functionality
+- [ ] All existing tests still pass
+- [ ] I have updated documentation if needed
